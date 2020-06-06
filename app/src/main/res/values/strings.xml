@@ -1,0 +1,21 @@
+<resources>
+
+
+    <string name="app_name">ShellTest</string>
+    <string name="pagar">Pagar</string>
+    <string name="wallet">Billetera</string>
+    <string name="configuracion">Configuración</string>
+    <string name="mensajes">Mensajes</string>
+    <string name="beneficios">Beneficios</string>
+    <string name="estaciones">Estaciones</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="input_rut">Ingresar RUT</string>
+    <string name="ok_btn">OK</string>
+    <string name="user_reg">Usuario registrado</string>
+    <string name="err_title">Opps</string>
+    <string name="no_user_msg">No hay usuario registrado</string>
+    <string name="succes_title_user_created">Usuario creado</string>
+    <string name="errro_msg_user_created">El usuario ya fue creado</string>
+    <string name="icon_help">icon help</string>
+    <string name="enter_rut">Enter RUT</string>
+</resources>

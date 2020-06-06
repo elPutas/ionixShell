@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="safe_area_top_bottom">50dp</dimen>
+    <dimen name="safe_area_left_right">30dp</dimen>
+    <dimen name="pad_top_ico_btn">20dp</dimen>
+    <dimen name="w_h_btn">100dp</dimen>
+    <dimen name="text_size_menu_btn">9sp</dimen>
+
+</resources>
